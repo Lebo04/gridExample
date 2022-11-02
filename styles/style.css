@@ -1,0 +1,18 @@
+/* Universal styling */
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header and footer */
+header, footer {
+    background-color: crimson;
+}
+main {
+    background-color: rgb(84, 84, 235);
+}
+
+/* Layout */
